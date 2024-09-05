@@ -6,3 +6,21 @@
 .navbar-brand {
   margin-right: 7rem;
 }
+
+@media screen and (min-width: 992px) {
+  .left--child {
+    width: 70%;
+  }
+  .right--child {
+    width: 30%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .main--content--image {
+    width: 70%;
+  }
+  .property--description--container {
+    width: 30%;
+  }
+}
